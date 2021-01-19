@@ -1,0 +1,112 @@
+"{
+	margin: 0px;
+	padding:0px;
+	
+}
+
+.zaglavlje {
+	height: 150px;
+}	
+.zaglavlje h1 {
+	color: yellow;
+	font-size:50px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 15px;
+	
+}
+.meni {
+	background-color: green;
+	height: 65px;
+	
+	}
+	
+
+.meni h2 {
+	font-size: 50px;
+	color: blue;
+	text-transform: uppercase;
+	padding-left:55px;
+	padding-top: 10px;
+	
+}
+.meni li a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+}
+
+.meni a:hover{
+	
+	color: light green;
+}
+.glavni{
+	background-color:yellow;
+}
+
+.glavni .pasus {
+	background-color: light red;
+	height: 300px;
+	-webkit-box-shadow: 0px 0px 10px rgba(0,0,0,1);
+	-moz-box-shadow: 0px 0px 10px rgba(0,0,0,1);
+	box-shadow: gray;
+}
+.glavni .pasus h2 {
+	color:red;
+	text-align: center;
+	padding-top; 15px;
+	text-transform:uppercase;
+}
+.glavni .pasus p {
+	padding: 10px;
+	color: gray;
+}
+
+.glavni .pasus p:hover {
+	color: yellow;
+}
+
+.glavni .pasus:hover {
+	background-color: rgb(192, 224, 104);
+	margin-top: -30px;
+	-webkit-box-shadow: 0px 0px 10px rgba(0,0,0,5);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,5);
+	box-shadow: gray;
+}
+.podnozje {
+	margin-top:100px;
+	background-color: gray;
+	background-size:100%;
+	
+	
+}
+
+.podnozje p {
+	color: rgb(65, 68, 70);
+	position: center;
+          
+}
+.podnozje .slika{
+	padding-left: 30%;
+	margin-top: -30px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
